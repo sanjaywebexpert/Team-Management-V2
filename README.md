@@ -1,0 +1,2 @@
+# Team-Management-V2
+SWE Team Management For Wordpress is plugin which help you to manage and display your team members on carousel slider with many layouts. This will create a Separate admin section for Team in admin area where to manage team/staff/employee on your sites. This plugin is very ease of use by providing different shortcodes for different layouts of team slider and team grid view. This is responsive layout of Team  design Suitable for all devices.
